@@ -1,0 +1,2 @@
+配置dns等
+https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#github-repository-setup-errors
